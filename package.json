@@ -11,7 +11,7 @@
     "postinstall": "yarn run dev"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "sweetalert": "^2.1.2",
     "tailwindcss": "0.4.3",
     "vue": "^2.6.10"
